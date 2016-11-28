@@ -7,4 +7,7 @@ clear description of how to build a Gibbs sampler for the very simple Naı̈ve B
 In this repository I implement their Gibbs sampling in Python, show how to use it to build a SPAM detector, and illustrate
 some techniques for optimizing Python code to increase the speed of the sampler by a couple of orders of magnitude.
 
-1. [Implementing a Gibbs Sampler in Python](https://nbviewer.jupyter.org/github/bobflagg/gibbs-sampling-for-the-uninitiated/blob/master/Gibbs-sampling-for-the-Uninitiated.ipynb)
+1. [Gibbs Sampling for the Uninitiated (with Python)](https://nbviewer.jupyter.org/github/bobflagg/gibbs-sampling-for-the-uninitiated/blob/master/Gibbs-sampling-for-the-Uninitiated.ipynb)
+2. [A Gibbs Sampler for Detecting Spam](https://nbviewer.jupyter.org/github/bobflagg/gibbs-sampling-for-the-uninitiated/blob/master/a-gibbs-sampler-for-detecting-spam.ipynb)
+
+
